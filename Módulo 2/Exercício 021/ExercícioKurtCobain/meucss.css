@@ -1,0 +1,21 @@
+
+html{
+    height: 100%;
+}
+body{
+    background-image: linear-gradient(to bottom, #F1E309, black);
+}
+main{
+    width: 750px;
+    height: auto;
+    text-align: center;
+    background-color: white;
+    margin: auto;
+    border-radius: 10px;
+}
+h1{
+    color: #594806;
+}
+h2{
+    color: #594806;
+}
