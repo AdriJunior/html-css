@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.cabecalho {
+    text-align: center;
+}
+
+.h1-cabecalho {
+    color: white;
+    background-color: black;
+    padding-top: 50px 0px 0px;
+    font-size: 10vw;
+}
+
+.p-cabecalho {
+    color: white;
+    background-color: black;
+    padding: 20px 0px 40px 0px;
+    font-size: 1.5vw;
+}
+
+.link-cordel {
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.link-cordel,
+.rodape {
+    text-decoration: none;
+    text-align: center;
+    background-color: black;
+    color: white;
+    margin-bottom: 30px;
+}
